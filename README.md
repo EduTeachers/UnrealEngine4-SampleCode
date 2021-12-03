@@ -10,3 +10,4 @@ The examples below should be viewed in this order:
 4. CharacterAnimation - Character movement example
 5. SpringArmExample - Proper 3rd person camera
 6. CollisionExample - Overlap, Block and Ignore collision states
+7. LineTrace
