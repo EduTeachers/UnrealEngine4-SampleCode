@@ -12,3 +12,4 @@ The examples below should be viewed in this order:
 6. CollisionExample - Overlap, Block and Ignore collision states
 7. LineTrace
 8. PhysicsExample
+9. SlateBasicsExample1 - Basics of rendering with the SlateUI
