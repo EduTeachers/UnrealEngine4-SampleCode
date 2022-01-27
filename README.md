@@ -13,3 +13,5 @@ The examples below should be viewed in this order:
 7. LineTrace
 8. PhysicsExample
 9. SlateBasicsExample1 - Basics of rendering with the SlateUI
+10. SlateBasicsExample2 - Basics of SlateUI Layouts
+11. SlateBasicsExample3 - Basics of SlateUI Delegates
