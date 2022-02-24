@@ -15,3 +15,5 @@ The examples below should be viewed in this order:
 9. SlateBasicsExample1 - Basics of rendering with the SlateUI
 10. SlateBasicsExample2 - Basics of SlateUI Layouts
 11. SlateBasicsExample3 - Basics of SlateUI Delegates
+12. MouseToScreen - Getting mouse position in world space
+13. PathFinding - "Implementing" PathFinding with UE4 
