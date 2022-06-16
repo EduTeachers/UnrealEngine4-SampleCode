@@ -20,4 +20,5 @@ The examples below should be viewed in this order:
 13. BehaviourTreesBP - Behaviour Tree sample in blueprints
 14. BT_CPP - Bhevaiour Tree implementation via C++
 15. PerceptionExample
+16. PerceptionExample_CPP
 
